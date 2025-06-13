@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cf0pnb8bacoer"
+path="res://.godot/imported/cannon_yellow_full_cannon_axle_yellow_full.obj-6a84ce76ba1ef3e4dd6a8125d6bd072b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cannon_yellow_full_cannon_axle_yellow_full.obj-6a84ce76ba1ef3e4dd6a8125d6bd072b.mesh"]
+
+source_file="res://Assets/KayKitMedievalHexagon/Assets/obj/units/yellow/cannon_yellow_full_cannon_axle_yellow_full.obj"
+dest_files=["res://.godot/imported/cannon_yellow_full_cannon_axle_yellow_full.obj-6a84ce76ba1ef3e4dd6a8125d6bd072b.mesh", "res://.godot/imported/cannon_yellow_full_cannon_axle_yellow_full.obj-6a84ce76ba1ef3e4dd6a8125d6bd072b.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

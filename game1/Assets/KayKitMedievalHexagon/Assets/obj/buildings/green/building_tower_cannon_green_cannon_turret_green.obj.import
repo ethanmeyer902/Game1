@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://w0j7jf6cd2eb"
+path="res://.godot/imported/building_tower_cannon_green_cannon_turret_green.obj-b21f47c5d9a164a6ddb05983c721cd60.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_tower_cannon_green_cannon_turret_green.obj-b21f47c5d9a164a6ddb05983c721cd60.mesh"]
+
+source_file="res://Assets/KayKitMedievalHexagon/Assets/obj/buildings/green/building_tower_cannon_green_cannon_turret_green.obj"
+dest_files=["res://.godot/imported/building_tower_cannon_green_cannon_turret_green.obj-b21f47c5d9a164a6ddb05983c721cd60.mesh", "res://.godot/imported/building_tower_cannon_green_cannon_turret_green.obj-b21f47c5d9a164a6ddb05983c721cd60.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

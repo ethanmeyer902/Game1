@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2c6brky0q7sw"
+path="res://.godot/imported/building_workshop_yellow.obj-8c9be5932f8e07dfa5424b1be2eb190b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building_workshop_yellow.obj-8c9be5932f8e07dfa5424b1be2eb190b.mesh"]
+
+source_file="res://Assets/KayKitMedievalHexagon/Assets/obj/buildings/yellow/building_workshop_yellow.obj"
+dest_files=["res://.godot/imported/building_workshop_yellow.obj-8c9be5932f8e07dfa5424b1be2eb190b.mesh", "res://.godot/imported/building_workshop_yellow.obj-8c9be5932f8e07dfa5424b1be2eb190b.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

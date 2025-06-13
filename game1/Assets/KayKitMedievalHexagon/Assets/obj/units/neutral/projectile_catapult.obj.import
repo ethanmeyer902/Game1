@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vyib0v4wkxuk"
+path="res://.godot/imported/projectile_catapult.obj-7de71c761e0b9e5d93a9bdbd296f8adb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/projectile_catapult.obj-7de71c761e0b9e5d93a9bdbd296f8adb.mesh"]
+
+source_file="res://Assets/KayKitMedievalHexagon/Assets/obj/units/neutral/projectile_catapult.obj"
+dest_files=["res://.godot/imported/projectile_catapult.obj-7de71c761e0b9e5d93a9bdbd296f8adb.mesh", "res://.godot/imported/projectile_catapult.obj-7de71c761e0b9e5d93a9bdbd296f8adb.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cgyspki2pjeoe"
+path="res://.godot/imported/bucket_empty.obj-202f01bb3dc83733d3733ed4f4e62995.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bucket_empty.obj-202f01bb3dc83733d3733ed4f4e62995.mesh"]
+
+source_file="res://Assets/KayKitMedievalHexagon/Assets/obj/decoration/props/bucket_empty.obj"
+dest_files=["res://.godot/imported/bucket_empty.obj-202f01bb3dc83733d3733ed4f4e62995.mesh", "res://.godot/imported/bucket_empty.obj-202f01bb3dc83733d3733ed4f4e62995.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

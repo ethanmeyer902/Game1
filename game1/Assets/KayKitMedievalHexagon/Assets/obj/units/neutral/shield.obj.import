@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://berkib2vpvit3"
+path="res://.godot/imported/shield.obj-b3e3a573ba34987b42692a8d7e74a64d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/shield.obj-b3e3a573ba34987b42692a8d7e74a64d.mesh"]
+
+source_file="res://Assets/KayKitMedievalHexagon/Assets/obj/units/neutral/shield.obj"
+dest_files=["res://.godot/imported/shield.obj-b3e3a573ba34987b42692a8d7e74a64d.mesh", "res://.godot/imported/shield.obj-b3e3a573ba34987b42692a8d7e74a64d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

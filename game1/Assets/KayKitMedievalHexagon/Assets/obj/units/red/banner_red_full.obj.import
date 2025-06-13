@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ca86aqa3i1py3"
+path="res://.godot/imported/banner_red_full.obj-dc7dfa098ad53458a9ff226d3927642f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/banner_red_full.obj-dc7dfa098ad53458a9ff226d3927642f.mesh"]
+
+source_file="res://Assets/KayKitMedievalHexagon/Assets/obj/units/red/banner_red_full.obj"
+dest_files=["res://.godot/imported/banner_red_full.obj-dc7dfa098ad53458a9ff226d3927642f.mesh", "res://.godot/imported/banner_red_full.obj-dc7dfa098ad53458a9ff226d3927642f.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

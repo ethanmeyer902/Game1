@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c73j3ov1kqjwo"
+path="res://.godot/imported/sword_blue_accent.obj-61df191b7cf89532959e07f80b380d31.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sword_blue_accent.obj-61df191b7cf89532959e07f80b380d31.mesh"]
+
+source_file="res://Assets/KayKitMedievalHexagon/Assets/obj/units/blue/sword_blue_accent.obj"
+dest_files=["res://.godot/imported/sword_blue_accent.obj-61df191b7cf89532959e07f80b380d31.mesh", "res://.godot/imported/sword_blue_accent.obj-61df191b7cf89532959e07f80b380d31.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

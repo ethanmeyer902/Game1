@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bkf0g3trtx1oc"
+path="res://.godot/imported/cart_merchant_red_accent_cart_merchant_axle_rear_red_accent.obj-c1117b930ba5947a739b06b8c68f637c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cart_merchant_red_accent_cart_merchant_axle_rear_red_accent.obj-c1117b930ba5947a739b06b8c68f637c.mesh"]
+
+source_file="res://Assets/KayKitMedievalHexagon/Assets/obj/units/red/cart_merchant_red_accent_cart_merchant_axle_rear_red_accent.obj"
+dest_files=["res://.godot/imported/cart_merchant_red_accent_cart_merchant_axle_rear_red_accent.obj-c1117b930ba5947a739b06b8c68f637c.mesh", "res://.godot/imported/cart_merchant_red_accent_cart_merchant_axle_rear_red_accent.obj-c1117b930ba5947a739b06b8c68f637c.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
